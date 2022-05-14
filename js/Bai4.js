@@ -21,7 +21,7 @@ function bai4() {
         } else {
             content += divLe;
         }
-        // B3: In kết quả ra trình duyệt
+        // B4: In kết quả ra trình duyệt
         showDiv.innerHTML = content;
     }
 }
